@@ -1,3 +1,2 @@
 # NISR
-If you use this implementation please cite:
-Zhongli Fan et al.: "Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images"
+This is the implementation and some materials of our paper "Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images"
